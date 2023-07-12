@@ -22,7 +22,7 @@ void hamXuLi() {
 
 void guiTinNhan() {
   Serial.println("tin nhan da duoc gui");
-  delay(10000);  // thoi gian can de gui
+  delay(1000);  // thoi gian can de gui
   Serial.println("tin nhan da gui thanh cong");
 }
 
